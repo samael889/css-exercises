@@ -3,6 +3,10 @@
     font-family: verdana, dejaVu Sans,sans-serif;
 }
 
+.special {
+    font-size: 24px;
+}
+
 #second {
     color: #00f;
     font-size: 36px;
